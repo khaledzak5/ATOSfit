@@ -2,7 +2,7 @@
 
 > A real-time fitness tracking web application that uses TensorFlow.js and pose detection to monitor exercise form, count repetitions, and provide feedback — all through your webcam!
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/17be209c-4734-48ee-b5b5-1ec5c08f5822" />
-<img width="1896" height="1079" alt="image" src="https://github.com/user-attachments/assets/f5ab2794-93fc-43ed-8307-6c66f0ba998b" />
+
 
 
 
@@ -38,15 +38,6 @@ All pose estimation runs *entirely in-browser*. No video or data is uploaded —
 
 ---
 
-## 🏋 Supported Exercises
-
-| Exercise        | Preview                                                                                                           |
-| --------------- | ----------------------------------------------------------------------------------------------------------------- |
-| *Forward Lunge* | ![](https://media.post.rvohealth.io/wp-content/uploads/sites/2/2019/05/PERFECT-SERIES_LUNGE-HORIZONTAL_GRAIN.gif) |
-| *Squats*        | ![](https://i.pinimg.com/originals/f9/db/a3/f9dba36451cab8b0b5be6d5ec9fd438a.gif)                                 |
-| *Bicep Curls*   | ![](https://i.pinimg.com/originals/68/4d/50/684d50925eabbdf60f66d4bf7013c9ef.gif)                                 |
-| *Push-ups*      | ![](https://i.pinimg.com/originals/fd/bb/09/fdbb092b58863e5c86fdb8bb1411fcea.gif)                                 |
-| *Pull-ups*      | ![](https://tunturi.org/Blogs/2022/09-pull-up.gif)                                                                |
 
 
 ## 🧪 Getting Started
@@ -88,6 +79,5 @@ Choose your exercise, get in position, and the tracker will do the rest!
 
 ## 🌟 Inspiration
 
-This project was inspired by the Python-based [Fitness Tracker Pro](https://github.com/a1harfoush/Fitness_Tracker_Pro), adapted for the modern web using JS and TensorFlow.js.
-
-![Inspiration](https://github.com/user-attachments/assets/3c369613-96d2-48a4-b302-b330bd863fec)
+By ATOSfit Team 
+Team Leader : Khaled Zakaria 
